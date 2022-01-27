@@ -1,6 +1,3 @@
-library(psychTestR)
-library(musicassessr)
-
 hmtm_2022_screening <- function() {
   psychTestR::make_test(
     new_timeline(
