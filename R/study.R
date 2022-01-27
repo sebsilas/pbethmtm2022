@@ -1,6 +1,3 @@
-library(musicassessr)
-library(psychTestR)
-
 # PBET constants
 
 
@@ -110,7 +107,7 @@ hmtm_quick <- function() {
 
 
 
-hmtm_quick()
+#hmtm_quick()
 
 # for leaderboard to work...
 

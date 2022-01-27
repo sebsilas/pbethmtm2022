@@ -19,3 +19,5 @@ Remotes:
     sebsilas/musicassessr
 URL: https://github.com/sebsilas/pbethmtm2022
 BugReports: https://github.com/sebsilas/pbethmtm2022/issues
+Depends: 
+    R (>= 2.10)
