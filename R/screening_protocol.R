@@ -1,3 +1,11 @@
+
+
+#' Launch the screening
+#'
+#' @return
+#' @export
+#'
+#' @examples
 hmtm_2022_screening <- function() {
   psychTestR::make_test(
     psychTestR::new_timeline(
